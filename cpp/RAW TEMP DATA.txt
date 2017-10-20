@@ -1,0 +1,27 @@
+12am	66
+1am	65
+2am	65
+3am	65
+4am	64
+5am	64
+5am	64
+7am	65
+8am	67
+9am	70
+10am	73
+11am	77
+12pm	80
+1pm	82
+2pm	84
+3pm	85
+4pm	86
+5pm	85
+6pm	84
+7pm	82
+8pm	79
+9pm	77
+10pm	75
+11pm	72
+12am	69
+
+http://www.accuweather.com/en/us/state-college-pa/16801/hourly-weather-forecast/335315?hour=16
